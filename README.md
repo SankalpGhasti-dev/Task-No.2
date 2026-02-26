@@ -106,12 +106,6 @@ This email is a **confirmed phishing attempt** and should be:
 - Report suspicious emails to IT security
 - Use email filtering and anti-phishing tools
 
-## References
-
-- [FBI - Phishing and Email Fraud](https://www.fbi.gov/tips)
-- [CISA - Phishing](https://www.cisa.gov/phishing)
-- [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework)
-
 ## Author
 
 Sankalp Ghasti (@SankalpGhasti-dev)
